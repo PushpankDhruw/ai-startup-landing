@@ -1,5 +1,5 @@
 # AI Startup Landing Page
-![AI Startup](/src/assets/Thumbnail.png)
+![AI Startup](/src/assets/cover.png)
 
 Welcome to our AI-driven SEO startup landing page. This project showcases our innovative approach to search engine optimization using cutting-edge AI technology.
 
