@@ -2,8 +2,6 @@
 
 Welcome to our AI-driven SEO startup landing page. This project showcases our innovative approach to search engine optimization using cutting-edge AI technology.
 
-![AI Startup](/src/assets/cover.png)
-
 ## Features
 
 - 🌑 Modern dark theme design
